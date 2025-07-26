@@ -14,10 +14,13 @@ satisfaction, loyalty, and conversion rates.
 datasets. This scalability benefits new or smaller e-commerce platforms. Additionally, our system's ability to drive cross-category
 sales and uncover hidden demand patterns boosts sales, taps into new market segments, and optimizes inventory management,
 enhancing revenue streams and profitability for e-commerce platforms.
+
 • Our solution uses the product description, title, features, category data which is preprocessed and converted to a meaningful
 sentence on which we then apply the power of TF-IDF algorithm to give a kickstart with contexts to a pre-trained BERT
 transformer which is trained and fine-tuned on the information about products which we meaningfully generated. Post training,
 we give our input in Natural Language to the trained model and it recommends us products.
+
 • This is a very robust solution and it has the potential to be very powerful once trained on huge amount of data.
+
 • Please Refer to the project report to understand how we have implemented and how much promising our model is. It will work
 not only for E-Commerce but for any large scale Recommendation Systems.
